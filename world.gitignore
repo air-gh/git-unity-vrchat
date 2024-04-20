@@ -20,7 +20,4 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
-/[Mm]emoryCaptures/
-.gradle/
-.vs/
-*.apk
+.DS_Store/
