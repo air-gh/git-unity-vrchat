@@ -15,8 +15,8 @@
 /[Ll]ibrary/[Ss]hader[Cc]ache.db
 /[Ll]ibrary/[Aa]rtifact[Dd][Bb]*
 /[Ll]ibrary/[Ss]ource[Aa]sset[Dd][Bb]*
-# /[Ll]ibrary/[Ss]cene[Vv]isibility[Ss]tate.asset
-# /[Ll]ibrary/[Ss]prite[Aa]tlas[Dd]atabase.asset
+/[Ll]ibrary/[Ss]cene[Vv]isibility[Ss]tate.asset
+/[Ll]ibrary/[Ss]prite[Aa]tlas[Dd]atabase.asset
 /[Ll]ibrary/ilpp.pid
 /[Ll]ibrary/*.buildreport
 /[Ll]ogs/
